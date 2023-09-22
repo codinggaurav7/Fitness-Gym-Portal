@@ -1,4 +1,4 @@
-# Fit GYM
+# Fit & GYM PORTAL
 
 
 ## About The Project
