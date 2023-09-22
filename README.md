@@ -2,7 +2,7 @@
 
 
 ## About The Project
-
+[Fitness & Gym Portal ](https://gauravgymportal.netlify.app/) is an online website where you get to join the legend of fitness around the world : )
 
 
 ## Requirement
@@ -38,5 +38,6 @@ This project is basically about me learning about react routing, reuseable compo
 ## Contact
 
 
-
+Github Repo: [Fitness-Gym-Portal
+](https://github.com/codinggaurav7/Fitness-Gym-Portal)
 
